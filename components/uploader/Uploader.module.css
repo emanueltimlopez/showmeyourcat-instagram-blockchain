@@ -1,0 +1,30 @@
+.uploader__upload-button {
+  border: 1px solid #c7c7c7;
+  border-radius: 50px;
+  padding: .5rem;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.uploader__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.uploader__section {
+  padding: 2rem 0;
+}
+
+.uploader__section textarea {
+  font-size: 17px;
+}
+
+.uploader__submit-button {
+  border: 1px solid #c7c7c7;
+  border-radius: 50px;
+  padding: .5rem;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: none;
+}

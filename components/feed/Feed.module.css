@@ -1,0 +1,30 @@
+.feed__container {
+  min-width: 450px;
+}
+
+.image__container {
+  width: 100%;
+  height: 450px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.feed__item {
+  margin-bottom: 1rem;
+  background-color: #535959;
+}
+
+.feed__description {
+  padding: 0 1rem;
+}
+
+.feed__tip {
+  padding: 0 1rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.feed__owner {
+  padding: 1rem 0 0 1rem;
+}
